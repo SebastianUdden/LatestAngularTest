@@ -1,7 +1,7 @@
-﻿var myApp = $.module('myApp', []);
+﻿//var myApp = $.module('myApp', []);
 
-myApp.controller('mainController', [function ($scope) {
+//myApp.controller('mainController', [function ($scope) {
 
-    $scope.handle = '';
-}]);
+//    $scope.handle = '';
+//}]);
 

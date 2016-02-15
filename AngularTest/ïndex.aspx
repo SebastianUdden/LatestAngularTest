@@ -23,7 +23,7 @@
 
             <hr />
 
-            <h1>This is the displayed text: {{ handle }} </h1>
+            <h1>This is the displayed text: {{ handle } </h1>
         </form>
     </div>
    
